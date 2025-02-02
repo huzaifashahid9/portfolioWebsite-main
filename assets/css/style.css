@@ -211,6 +211,10 @@ a:hover {
 .socials ul li {
   display: inline-block;
 }
+
+i{
+  padding: 10px;
+}
 .socials .ico-circle {
   height: 40px;
   width: 40px;
@@ -1062,4 +1066,10 @@ footer .credits {
 }
 footer .credits a {
   color: #fff;
+}
+
+
+.myimg{
+  height: 200px;
+  width: 250px;
 }
